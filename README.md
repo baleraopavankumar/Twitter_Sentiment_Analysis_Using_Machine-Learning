@@ -9,7 +9,7 @@ Twitter Sentiment Analysis Using Machine Learning
 
 The ability to analyze user sentiment through tweets and comments can provide significant value to companies during __product launches__. By understanding customer behavior and incorporating __sentiment analysis__, companies can gain insights from user feedback. This empowers them to make informed decisions, take necessary actions, and improve overall __revenue__ by addressing customer concerns and making targeted improvements accordingly.
 
-![images](https://github.com/baleraopavankumar/Twitter_Sentiment_Analysis_Using_Machine-Learning/blob/main/Twitter-sentiment-analysis-1.jpg)
+![images](https://github.com/baleraopavankumar/Twitter_Sentiment_Analysis_Using_Machine-Learning/blob/main/Twitter_Sentiment_Analysis%20-%201.png)
 
 ## Machine Learning and Data Science
 
