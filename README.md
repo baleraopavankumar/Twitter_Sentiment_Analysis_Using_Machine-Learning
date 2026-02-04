@@ -40,7 +40,7 @@ We have an image depicting a dataframe and a list of features. We will utilize t
 
 The countplot below illustrates that the majority of texts are classified as neutral sentiment, while the count of negative and positive texts is comparatively lower. This indicates a higher prevalence of neutral sentiments in the dataset.
 
-<img src = "https://github.com/baleraopavankumar/Twitter_Sentiment_Analysis_Using_Machine-Learning/blob/main/images/Sentiment%20countplot.jpg"/>
+<img src = "https://github.com/baleraopavankumar/Twitter_Sentiment_Analysis_Using_Machine-Learning/blob/main/Sentiment%20countplot.jpg"/>
 
 Wordcloud gives a good representation by the presence of words based on their size. In other words, more frequent words appear in higher size as compared to others. Words such as "thank" and "day" are used most often in the positive tweets.
 
