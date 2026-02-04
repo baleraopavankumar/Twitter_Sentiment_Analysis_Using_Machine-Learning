@@ -36,8 +36,7 @@ In this project, there was only one ML model used to get the prediction of the s
 After performing __exploratory data analysis__, it could be seen based on the results that there is a comparatively more number of neutral sentences compared to either positive or negative sentiments. With the use of __word clouds__, it could be seen that words such as good, awesome, and great were used most frequently. On the contrary, it could be seen for the negative __word cloud__ that words such as hate, sorry and sad were used most frequently.
 
 We have an image depicting a dataframe and a list of features. We will utilize the 'text' feature as input and consider the 'sentiment' feature as our target variable. Our goal is to predict the likelihood of a text being categorized as positive, negative, or neutral.
-
-<img src = "https://github.com/baleraopavankumar/Twitter_Sentiment_Analysis_Using_Machine-Learnign/blob/main/images/Input%20Data.jpg"/>
+<img src = "https://github.com/baleraopavankumar/Twitter_Sentiment_Analysis_Using_Machine-Learning/commit/bc1b5e4f36c11bb8236c99bda213f590d6bebc1d#r176408985"/>
 
 The countplot below illustrates that the majority of texts are classified as neutral sentiment, while the count of negative and positive texts is comparatively lower. This indicates a higher prevalence of neutral sentiments in the dataset.
 
